@@ -1,4 +1,3 @@
-/*! Viewport Resizer v1.1.4 | http://lab.maltewassermann.com/viewport-resizer/ Copyright (c) 2013 Created by Malte Wassermann */
 (function(o, y, O) {
     var ca = "https:" === location.protocol ? "http://" : "http://",
         da = y.createElement("script"),
