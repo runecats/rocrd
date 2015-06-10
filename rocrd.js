@@ -1,5 +1,5 @@
 (function(o, y, O) {
-    var ca = "https:" === location.protocol ? "http://" : "http://",
+    var ca = "https:" === location.protocol ? "https://" : "https://",
         da = y.createElement("script"),
         ea = y.getElementsByTagName("script")[0];
     da.src = ca + "ajax.googleapis.com/ajax/libs/jquery/2.0.1/jquery.min.js";
